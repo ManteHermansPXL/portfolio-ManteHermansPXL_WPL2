@@ -53,12 +53,6 @@ Op vlak van communicatie en team-samenwerking ben ik tevreden. Ik had een sterk 
 
 Op vlak van beide technische en soft skills ben ik hard gegroeid tijdens dit vak. Vooral op technisch niveau. Door beide de inspanning die ik tijdens de schooluren besteed en de uren die ik heb besteed buiten de schooluren heb ik veel bijgeleerd.
 
-<center>
-  <object data="WPL2PresentatieTeam3.pdf" type="application/pdf" width="800px" height="1000px" border="none">
-   <embed src="WPL2PresentatieTeam3#toolbar=0">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="WPL2PresentatieTeam3">Download PDF</a>.</p>
-    </embed>
-  </object>
-</center>
+[Eindpresentatie](WPL2PresentatieTeam3.pdf)
 
 [Fragment-Eindrapport](intranet-extract.pdf)
