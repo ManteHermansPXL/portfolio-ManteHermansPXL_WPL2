@@ -54,17 +54,17 @@ Op vlak van communicatie en team-samenwerking ben ik tevreden. Ik had een sterk 
 Op vlak van beide technische en soft skills ben ik hard gegroeid tijdens dit vak. Vooral op technisch niveau. Door beide de inspanning die ik tijdens de schooluren besteed en de uren die ik heb besteed buiten de schooluren heb ik veel bijgeleerd.
 
 <center>
-  <object data="WPL2PresentatieTeam3.pdf" type="application/pdf" width="800px" height="1000px" border="none">
-   <embed src="WPL2PresentatieTeam3.pdf#toolbar=0">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="WPL2PresentatieTeam3.pdf">Download PDF</a>.</p>
+  <object data="Reflectie/WPL2PresentatieTeam3.pdf" type="application/pdf" width="800px" height="1000px" border="none">
+   <embed src="Reflectie/WPL2PresentatieTeam3.pdf#toolbar=0">
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Reflectie/WPL2PresentatieTeam3.pdf">Download PDF</a>.</p>
     </embed>
   </object>
 </center>
 
 center>
-  <object data="intranet-extract.pdf" type="application/pdf" width="800px" height="1000px" border="none">
-   <embed src="intranet-extract.pdf#toolbar=0">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="intranet-extract.pdf">Download PDF</a>.</p>
+  <object data="Reflectie/intranet-extract.pdf" type="application/pdf" width="800px" height="1000px" border="none">
+   <embed src="Reflectie/intranet-extract.pdf#toolbar=0">
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Reflectie/intranet-extract.pdf">Download PDF</a>.</p>
     </embed>
   </object>
 </center>[
