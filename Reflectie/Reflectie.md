@@ -43,7 +43,7 @@
 
 ## Reflectie WPL 2
 
-Ik heb heel wat installaties en configuraties gemaakt tijdens WPL2. Dit is de reflectie van alles wat ik heb gedaan voor dit vak, wat goed ging, en wat beter kon.
+Ik heb heel wat installaties en configuraties gemaakt tijdens WPL2. Dit is de reflectie van alles wat goed ging, en wat beter kon.
 
 Waar ik persoonlijk tevreden over ben was mijn motivatie om moeilijke taken af te werken. Er waren veel situaties waarin ik niet echt snapte wat ik aan het doen was, omdat ik bezig was met software/service die we nog nooit in de les hadden gezien. Hierbij heb ik veel zelfstudie gedaan (officiële documentatie bekeken, youtube tutorials) om mijzelf te leren hoe ik deze service moest configureren. In meeste opdrachten kon ik dit tot een goed einde brengen.
 
@@ -52,3 +52,7 @@ Iets waar ik persoonlijk nog aan moet werken is om meer hulp te vragen. Zelfs me
 Op vlak van communicatie en team-samenwerking ben ik tevreden. Ik had een sterk team voor dit vak, een die communicatief was en waar ik vragen aan kon stellen. 
 
 Op vlak van beide technische en soft skills ben ik hard gegroeid tijdens dit vak. Vooral op technisch niveau. Door beide de inspanning die ik tijdens de schooluren besteed en de uren die ik heb besteed buiten de schooluren heb ik veel bijgeleerd.
+
+[Eindpresentatie](./WPL2PresentatieTeam3.pdf)
+
+[Fragment-Eindrapport](./intranet%20extract.pdf)
