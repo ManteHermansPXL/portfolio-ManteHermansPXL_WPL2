@@ -128,3 +128,18 @@ Dit zijn mijn **ontwikkelpunten** waarin ik tijdens WPL2 beter hoop te worden:<b
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
 zie Opdrachten en Reflectie
+
+## Overzicht ontwikkelingsgesprekken WPL 3
+
+Op vlak van technische skills heb ik veel geleerd. Ik heb geleerd om geduldiger te zijn bij troubleshooting. In een productieomgeving zijn er bij IT systemen zeer veel factoren die tot een issue kunnen brengen in een systeem, veel meer factoren dan mogelijk zijn in een gesimuleerde omgeving zoals bijvoorbeeld Packet Tracer. Ik ben vooral Linux-gericht maar in mijn stage heb ik veel geleerd over Microsoft, namelijk Microsoft 365. De werking van Intune, Entra en de andere admin centers en hun mogelijkheden was heel indrukwekkend.
+
+Op vlak van soft skills heb ik ook veel geleerd. Ik heb geleerd om samen te werken met co-stagiairs zelfs als het soms moeilijk was of als we onze opdracht niet volledig begrepen. In het begin had ik wat angst om vragen te stellen aan het IT-team als ik iets niet duidelijk vond, en tegen het einde van WPL3 merkte ik dat ik dit al veel vaker deed (in persoon, of via Teams).
+
+Als feedback heb ik vaak gekregen dat ik een stille student ben maar technisch heel sterk. Bij opdrachten die fysieke aanwezigheid vereisen ben ik nog oncomfortabel of heb uitstelgedrag. Ik heb bij taken die meer soft skills vragen nog aansturing nodig om deze correct uit te voeren, en zelfs dan verlopen deze nog niet heel spontaan. Bij onderzoek van de implementatie van Copilot heb ik een sterke technische basis gemaakt, misschien te technisch, want ik kreeg de feedback dat ik een meer user-friendly document moest maken dat meer paste bij de organisatie. 
+
+[OnStage Planningsgesprek](WPL3-PG_HermansMante.pdf)
+
+[OnStage Functioneringsgesprek](WPL3-FG_HermansMante.pdf)
+
+[OnStage Evalutiegesprek](WPL3-EG_HermansMante.pdf)
+

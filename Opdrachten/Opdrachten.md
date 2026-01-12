@@ -36,37 +36,49 @@ Het volgende is een logboek van installaties en configuraties die ik heb afgewer
 
 ### Sprint 1
 
-- Opzetten dualboot PC Internethoek (T03_10_10) (Windows 11 + Ubuntu) + template
+Opzetten dualboot PC Internethoek (T03_10_10) (Windows 11 + Ubuntu) + template
 <br>
-- Opzetten Windows 11 client PC + hier een template van maken
+Opzetten Windows 11 client PC + hier een template van maken
 <br>
-- Topologie maken van netwerkinfrastructuur voor WPL2 project (De Demer). Dit houdt in: de firewall, virtuele switches, klaslokalen, pc's en alle ip-addressen hiervan.
+Topologie maken van netwerkinfrastructuur voor WPL2 project (De Demer). Dit houdt in: de firewall, virtuele switches, klaslokalen, pc's en alle ip-addressen hiervan.
 <br>
 
 ### Sprint 2
 
-- Installatie van Active Directory en opzetten van domain op Windows Server 2022 (domain controller 1)
+Installatie van Active Directory en opzetten van domain op Windows Server 2022 (domain controller 1)
 <br>
-- Vaste IP addressering voor DC01
+Vaste IP addressering voor DC01
 <br>
-- Script maken voor het creëren van users in de active directory. Deze worden ook automatisch via het script ingedeeld in de OU structuur.
+Script maken voor het creëren van users in de active directory. Deze worden ook automatisch via het script ingedeeld in de OU structuur.
 <br>
-- Creëren van roaming profiles voor leerkrachten, secretariaatsmedewerkers en directie.
+Creëren van roaming profiles voor leerkrachten, secretariaatsmedewerkers en directie.
 <br>
-- Alle Windows client aanhangen aan het domein (dedemer.local)
+Alle Windows client aanhangen aan het domein (dedemer.local)
 
 ### Sprint 3
 
-- Ubuntu ICT PC aanhangen aan Active Directory (via realm)
+Ubuntu ICT PC aanhangen aan Active Directory (via realm)
 <br>
-- AGDLP toepassen op het domein.
+AGDLP toepassen op het domein.
 <br>
-- Installeren en configureren van SavaPage (printing software) voor alle users van het domein. Dit bevat ook persoonlijke bedragen voor elke user dia via LDAP geregistreerd is en een statisch bedrag voor het printen van documenten. 
+Installeren en configureren van SavaPage (printing software) voor alle users van het domein. Dit bevat ook persoonlijke bedragen voor elke user dia via LDAP geregistreerd is en een statisch bedrag voor het printen van documenten. 
 
 ### Sprint 4
 
-- Aanmaken intranet-website "intranet.dedemer.be". Deze heeft Windows AD-authentication, is bereikbaar over de DNS naam en is bereikbaar over HTTPS.
+Aanmaken intranet-website "intranet.dedemer.be". Deze heeft Windows AD-authentication, is bereikbaar over de DNS naam en is bereikbaar over HTTPS.
 <br>
-- Instellen van homefolders voor elke user in de active directory. Deze homefolders hebben een hard quota waarbij alleen mp3 en mp4-bestanden geupload kunnen worden, er een datalimiet is van 100MB, en er een melding aan de user wordt gestuurd bij 90%+ opslaggebruik.
+Instellen van homefolders voor elke user in de active directory. Deze homefolders hebben een hard quota waarbij alleen mp3 en mp4-bestanden geupload kunnen worden, er een datalimiet is van 100MB, en er een melding aan de user wordt gestuurd bij 90%+ opslaggebruik.
 <br>
-- Installatie en implementatie FOG-imaging solution. Deze is geinstalleerd op een aparte Ubuntu-server. Deze FOG-server stuurt een boot image "ipxe.efi" (voor UEFI clients) over het netwerk die clients fetchen over TFTP. 
+Installatie en implementatie FOG-imaging solution. Deze is geinstalleerd op een aparte Ubuntu-server. Deze FOG-server stuurt een boot image "ipxe.efi" (voor UEFI clients) over het netwerk die clients fetchen over TFTP. 
+
+## Opdrachten WPL3
+
+[Voorbereiding Planningsgesprek](Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
+
+[Pitch](WPL3_Intervisie_Pitch_Hermans_Mante.pdf)
+
+[Probleemsituatie](ProbleemsituatieWPL32SNEaHermansMante.pdf)
+
+[Probleemsituatie Naverwerking](ProbleemsituatieWPL32SNEaHermansMante_Naverwerking.pdf)
+
+[Werkkwaliteiten](WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_HermansMante_24.pdf)
